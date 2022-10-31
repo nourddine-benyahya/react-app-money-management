@@ -1,0 +1,11 @@
+
+export const MODIFY = 'MODIFY'
+export const DELETEIT = 'DELETEIT'
+export const DELETEACC = 'DELETEACC'
+export const ADD = 'ADD'
+export const ADDACC = 'ADDACC'
+export const ADDCAT = 'ADDCAT'
+export const DELETECAT = 'DALETECAT'
+export const DELETEGOAL = 'DELETEGOAL'
+export const ADDGOAL = 'ADDGOAL'
+export const MODIFYGOAL = 'MODIFYGOAL'
