@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-app-money-management/static/css/main.d1c3b4d5.css",
+    "main.js": "/react-app-money-management/static/js/main.ee49ac00.js",
+    "static/js/787.70c8a722.chunk.js": "/react-app-money-management/static/js/787.70c8a722.chunk.js",
+    "index.html": "/react-app-money-management/index.html",
+    "main.d1c3b4d5.css.map": "/react-app-money-management/static/css/main.d1c3b4d5.css.map",
+    "main.ee49ac00.js.map": "/react-app-money-management/static/js/main.ee49ac00.js.map",
+    "787.70c8a722.chunk.js.map": "/react-app-money-management/static/js/787.70c8a722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c3b4d5.css",
+    "static/js/main.ee49ac00.js"
+  ]
+}
